@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\STUDENTS-1212-2\\Desktop\\GP\\ComectingTables\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F24E91-399B-422D-9F18-ECF812E026F6}|TreesZaimov\\TreesZaimov.csproj|c:\\users\\students-1212-2\\desktop\\gp\\comectingtables\\treeszaimov\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B5F24E91-399B-422D-9F18-ECF812E026F6}|TreesZaimov\\TreesZaimov.csproj|solutionrelative:treeszaimov\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F24E91-399B-422D-9F18-ECF812E026F6}|TreesZaimov\\TreesZaimov.csproj|c:\\users\\students-1212-2\\desktop\\gp\\comectingtables\\treeszaimov\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F24E91-399B-422D-9F18-ECF812E026F6}|TreesZaimov\\TreesZaimov.csproj|solutionrelative:treeszaimov\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E26DB90-FC3D-4A2E-BDA7-45E32086B97E}|ComectingTables\\ComectingTables.csproj|c:\\users\\students-1212-2\\desktop\\gp\\comectingtables\\comectingtables\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E26DB90-FC3D-4A2E-BDA7-45E32086B97E}|ComectingTables\\ComectingTables.csproj|solutionrelative:comectingtables\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 216,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-2\\Desktop\\GP\\ComectingTables\\TreesZaimov\\Form1.cs",
+              "RelativeDocumentMoniker": "TreesZaimov\\Form1.cs",
+              "ToolTip": "C:\\Users\\STUDENTS-1212-2\\Desktop\\GP\\ComectingTables\\TreesZaimov\\Form1.cs",
+              "RelativeToolTip": "TreesZaimov\\Form1.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAawDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T05:29:26.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-2\\Desktop\\GP\\ComectingTables\\TreesZaimov\\Form1.cs",
+              "RelativeDocumentMoniker": "TreesZaimov\\Form1.cs",
+              "ToolTip": "C:\\Users\\STUDENTS-1212-2\\Desktop\\GP\\ComectingTables\\TreesZaimov\\Form1.cs [Design]",
+              "RelativeToolTip": "TreesZaimov\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T05:21:57.967Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-2\\Desktop\\GP\\ComectingTables\\ComectingTables\\Form1.cs",
+              "RelativeDocumentMoniker": "ComectingTables\\Form1.cs",
+              "ToolTip": "C:\\Users\\STUDENTS-1212-2\\Desktop\\GP\\ComectingTables\\ComectingTables\\Form1.cs [Design]",
+              "RelativeToolTip": "ComectingTables\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T05:20:08.334Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 11,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

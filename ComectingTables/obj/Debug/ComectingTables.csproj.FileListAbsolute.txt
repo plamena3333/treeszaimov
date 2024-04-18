@@ -1,0 +1,9 @@
+C:\Users\STUDENTS-1212-2\Desktop\GP\ComectingTables\ComectingTables\bin\Debug\ComectingTables.exe.config
+C:\Users\STUDENTS-1212-2\Desktop\GP\ComectingTables\ComectingTables\bin\Debug\ComectingTables.exe
+C:\Users\STUDENTS-1212-2\Desktop\GP\ComectingTables\ComectingTables\bin\Debug\ComectingTables.pdb
+C:\Users\STUDENTS-1212-2\Desktop\GP\ComectingTables\ComectingTables\obj\Debug\ComectingTables.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1212-2\Desktop\GP\ComectingTables\ComectingTables\obj\Debug\ComectingTables.Properties.Resources.resources
+C:\Users\STUDENTS-1212-2\Desktop\GP\ComectingTables\ComectingTables\obj\Debug\ComectingTables.csproj.GenerateResource.cache
+C:\Users\STUDENTS-1212-2\Desktop\GP\ComectingTables\ComectingTables\obj\Debug\ComectingTables.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-2\Desktop\GP\ComectingTables\ComectingTables\obj\Debug\ComectingTables.exe
+C:\Users\STUDENTS-1212-2\Desktop\GP\ComectingTables\ComectingTables\obj\Debug\ComectingTables.pdb
